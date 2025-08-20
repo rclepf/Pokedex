@@ -5,7 +5,7 @@ Pokédex com PokéAPI
 
 Projeto é uma pokédex utilizando informações da PokéAPI.
 
-Pode efetuar a busca de pokémons até na 5ª geração com gifs animados.
+Pode efetuar a busca de pokémons até na 8ª geração.
 
 A busca pode ser efetuada utilizando a numeração ou nome do pokémon.
 
